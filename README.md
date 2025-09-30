@@ -27,6 +27,7 @@ My goal is to create trustworthy data systems that power smarter, faster decisio
   Production-style ETL pipeline for ingesting and transforming market/financial data. Includes automated testing (Pytest 90% coverage), CI/CD with GitHub Actions, and Docker deployment for reproducibility.  
   ![Pipeline Architecture](https://raw.githubusercontent.com/josetraderx/Financial-Data-Pipeline/main/diagram.png)
 
+
 - [**edgar-sec-parser**](https://github.com/josetraderx/edgar-sec-parser)  
   Parses SEC EDGAR filings and structures them into analytics-ready datasets for downstream consumption.
 
