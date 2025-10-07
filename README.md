@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jose Acosta
-**Data Engineer | ETL & Real-Time Pipelines | Cloud-Ready Solutions**
+**Data Engineer | ETL & Real-Time Pipelines · Fraud Detection · Analytics Engineering | Python · Spark · dbt · AWS · Databricks**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-success)
