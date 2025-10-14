@@ -7,11 +7,13 @@
 ![Pytest](https://img.shields.io/badge/tests-90%25%20coverage-brightgreen)
 ![AWS](https://img.shields.io/badge/Cloud-AWS%20%7C%20dbt%20%7C%20Snowflake-orange)
 
-I started my career in quantitative trading, where I learned how unreliable data can lead to expensive mistakes. That experience drives how I work as a Data Engineer today: I build robust, real-time data systems that turn noisy inputs into clean, actionable outputs.
+My career began in quantitative trading, where I learned a costly lesson: unreliable data leads to mistakes. Through investing in the stock market, I also learned how clear, reliable data is fundamental for successful decision-making. That experience defines my work as a Data Engineer. I build robust data systems that transform chaos into clarity, ensuring teams can make critical decisions with absolute confidence.
 
-My focus is on scalable ETL pipelines, automation, and cloud-ready architectures using Python, SQL, Spark, dbt, AWS, FastAPI, Snowflake, and TimescaleDB.
+Today, I apply that same mindset to data engineering. I design and build ETL pipelines and real-time data workflows that transform raw inputs into clean, trustworthy outputs ready for analytics, automation, and decision-making.
 
-From SEC filings to fraud detection, I build data solutions teams can trust — under pressure, and at scale.
+My toolkit includes Python, SQL, Spark, dbt, FastAPI, AWS, Snowflake, and TimescaleDB. My projects range from parsing SEC filings to power algorithmic trading research to building scalable prototypes for fraud detection and risk monitoring.
+
+What I bring is a blend of analytical rigor and engineering precision, shaped by high-stakes environments. My focus: help teams make faster, smarter decisions by giving them data they can trust at scale.
 
 ---
 
